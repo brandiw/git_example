@@ -4,6 +4,10 @@
 
 I want to know where you plan to travel next. I plan on travelling to Amsterdam! Also, I really want to go to Florida to go to Disneyworld!
 
+## WDI-SEA
+
+I plan on traveling to Mexico!
+
 ## Jack's Section
 
 I want to travel back to south east asia, particularly laos and vietnam.
